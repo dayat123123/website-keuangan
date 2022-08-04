@@ -1,0 +1,2 @@
+[27-Sep-2020 01:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nblwareh/finance.nblwarehouse.my.id/periksa_login.php on line 10
+[27-Sep-2020 01:46:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/nblwareh/finance.nblwarehouse.my.id/periksa_login.php on line 10
